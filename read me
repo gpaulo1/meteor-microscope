@@ -1,3 +1,8 @@
 Deploy da aplicação:
 	"$ meteor deploy myapp.meteor.com"
 
+Ativar o mongo shell:
+	"meteor mongo"
+
+Apagar banco de dados e resetar o projeto:
+	"meteor reset"
